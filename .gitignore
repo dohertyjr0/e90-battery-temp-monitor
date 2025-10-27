@@ -1,0 +1,20 @@
+# KiCad temporary / backup files
+*.kicad_prl
+*_autosave.kicad_sch
+*~.lck
+*.bak
+*.tmp
+*.log
+*.net
+*.xml
+fp-info-cache
+*-cache.lib
+
+# Output / build directories
+outputs/
+build/
+hardware/outputs/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
